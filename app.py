@@ -4,7 +4,7 @@ from streamlit_pdf_viewer import pdf_viewer
 
 st.set_page_config(page_title="Brad's Bakery", layout="wide")
 
-st.title("👨‍🍳 Brad's Bakery Recipe Box")
+st.title("👨‍🍳 Hepburn Recipe Book")
 
 PDF_ROOT = "PDFs" 
 
