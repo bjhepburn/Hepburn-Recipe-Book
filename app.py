@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from streamlit_pdf_viewer import pdf_viewer
 
-st.set_page_config(page_title="Brad's Bakery", layout="wide")
+st.set_page_config(page_title="Hepburn's Kitchen", layout="wide")
 
 st.title("👨‍🍳 Hepburn Recipe Book")
 
